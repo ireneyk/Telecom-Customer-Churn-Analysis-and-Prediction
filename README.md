@@ -5,7 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Power BI Dashboard Snapshot](dashboard/Dashboard_Screenshots/1_Summary_Page.png)
+![Power BI Dashboard Snapshot](End-to-End-Churn-Analysis/dashboard/Dashboard_Screenshots/1_Summary_Page.png)
 
 ## Executive Summary
 In the telecommunications sector, customer retention is highly cost-effective compared to new customer acquisition. This project outlines an end-to-end data pipeline designed to analyze historical customer data, isolate the root causes of attrition, and deploy a machine learning classification model to predict high-risk churners. The resulting dashboard and predictions enable stakeholders to transition from reactive to proactive retention strategies, potentially saving tens of thousands in monthly recurring revenue.
@@ -55,3 +55,4 @@ In the telecommunications sector, customer retention is highly cost-effective co
 │       ├── 1_Summary_Page.png
 │       └── 2_Prediction_Page.png
 └── README.md
+
