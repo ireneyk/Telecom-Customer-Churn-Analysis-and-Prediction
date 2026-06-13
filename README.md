@@ -1,6 +1,6 @@
 # Telecom Customer Churn Prediction & Analysis
 
-![Power BI Dashboard Snapshot](dashboard/Summary.png)
+![Power BI Dashboard Snapshot](dashboard/Dashboard_Screenshots/1_Summary_Page.png)
 
 ## Executive Summary
 In the telecommunications sector, customer retention is highly cost-effective compared to new customer acquisition. This project outlines an end-to-end data pipeline designed to analyze historical customer data, isolate the root causes of attrition, and deploy a machine learning classification model to predict high-risk churners. The resulting dashboard and predictions enable stakeholders to transition from reactive to proactive retention strategies.
